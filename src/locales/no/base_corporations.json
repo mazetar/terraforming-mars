@@ -1,0 +1,76 @@
+{
+  "Beginner Corporation": "Begynner Firma",
+  "You start with 42 M€. Instead of choosing from 10 cards during setup, you get 10 cards for free.": "Du starter med 42 M€。I stede for å velge fra 10 kort i starten, så får du alle 10 gratis.",
+
+  "credicor": "credicor",
+  "CrediCor": "CrediCor",
+  "CREDICOR": "CREDICOR",
+  "You start with 57 M€.": "Du starter med 57 M€。",
+  "Effect: After you pay for a card or standard project with a basic cost of 20M€ or more, you gain 4 M€.": "Effekt: Etter å betalt for et kort eller standard prosjekt med en basis kost på 20 M€ eller mer, så får du 4 M€.",
+  "Action: Use a blue card action that has already been used this generation": "Action: Bruk et blått kort sin Action på nytt igjen (må ha blitt brukt tidligere denne genrasjonen)",
+
+  "ecoline": "ecoline",
+  "EcoLine": "EcoLine",
+  "You start with 2 plant production, 3 plants, and 36 M€.": "Du sstarter med 36 M€, 2 Plante produksjon og 3 planter.",
+  "Effect: You may always pay 7 plants, instead of 8, to place greenery.": "Effekt: Det koster deg bare 7 planter i stede for 8 for å bygge et Drivhus.",
+
+  "Helion": "Helion",
+  "helion": "helion",
+  "You start with 3 heat production and 42 M€.": "Du starter med 42 M€ og 3 Varme produksjon.",
+  "Effect: You may use heat as M€. You may not use M€ as heat.": "Effekt: Du kan bruke Varme som M€. Du kan IKKE bruke M€ som Varme",
+
+  "INTERPLANETARY": "INTERPLANETARY",
+  "CINEMATICS": "CINEMATICS",
+  "Interplanetary Cinematics": "Interplanetary Cinematics",
+  "You start with 20 steel and 30 M€.": "Du starter med 30 M€ og 20 Stål",
+  "Effect: Each time you play an event, you gain 2 M€.": "Effekt: Hver gang du spiller et event kort, får du 2 M€。",
+
+  "INVENTRIX": "INVENTRIX",
+  "Inventrix": "Inventrix",
+  "As your first action in the game, draw 3 cards. Start with 45 M€.": "Som din første handling i spillet, trekk inn 3 kort. Du starter med 45 M€.",
+  "Effect: Your temperature, oxygen, ocean, and Venus requirements are +2 or -2 steps, your choice in each case.": "Effekt: Din tempratur, oksugen, hav og Venus krav er +2 eller -2 steg, etter eget ømsle i hvert tilfelle.",
+  "Draw 3 cards":"Trekk 3 kort",
+
+  "PhoboLog": "PhoboLog",
+  "Phobolog": "Phobolog",
+  "PHOBOLOG": "PHOBOLOG",
+  "You start with 10 titanium and 23 M€.": "Du starter med 23 M€ og 10 Titan",
+  "Effect: Your titanium resources are each worth 1 M€ extra.": "Effekt: Dine Titan ressurser er verdt +1 M€ ekstra.",
+
+  "THARSIS": "THARSIS",
+  "REPUBLIC": "REPUBLIC",
+  "Tharsis Republic": "Tharsis Republic",
+  "You start with 40 M€. As your first action in the game, place a city tile.": "Du starter med 40 M€. Som din første Action i spillet, plasser ut en By på kartet.",
+  "Effect: When any city tile is placed ON MARS, increase your M€ production 1 step. When you place a city tile, gain 3 M€.": "Effekt: Når en by (uansett hvordan) blir plassert på bakken PÅ MARS, så økes M€ Produksjonen din med 1. Når du selv plasserer en by får du itilegg 3 M€.",
+  "You start with 1 titanium production, and 38 M€.": "Du starter med +1 Titan produksjon og 38 M€.",
+
+  "THORGATE": "THORGATE",
+  "Thorgate": "Thorgate",
+  "You start with 1 energy production and 48 M€.": "Du starter med +1 Energi produksjon og 48 M€.",
+  "Effect: When playing a power card OR THE STANDARD PROJECT POWER PLANT, you pay 3 M€ less for it.": "Effekt: Når du spiller et Strøm kort eller bruker STANDARD PROSJEKT STRØM KRAFTVÆRK, så betaler du 3 M€ mindre for det.",
+
+  "UNITED NATIONS MARS INITIATIVE": "UNITED NATIONS MARS INITIATIVE",
+  "United Nations Mars Initiative": "United Nations Mars Initiative",
+  "UNMI": "UNMI",
+  "Action: If your Terraform Rating was raised this generation, you may pay 3 M€ to raise it 1 step more.": "Action: Hvis din Terraform score økte denne generasjonen, så kan du betale 3 M€ for å øke den 1 steg til.",
+  "You start with 40 M€.": "Du starter med 40 M€.",
+
+  "MINING": "MINING",
+  "GUILD": "GUILD",
+  "Mining Guild": "Mining Guild",
+  "You start with 30 M€, 5 steel and 1 steel production.": "Du starter med 30 M€, 5 Stål og 1 Stål Produksjon.",
+  "Effect: Each time you get any steel or titanium as a placement bonus on the map, increase your steel production 1 step.": "Effekt: Hver gang du får Stål eller Titan som en plasserings bonus fra brettet, økes Stål Produksjonen din 1 nivå.",
+  "You start with 40 M€. As your first action add a colony tile.": "Du starter med 40 M€. Som din første Action, utplasser en by på kartet.",
+  "Effect: When you get a new type of tag in play (event cards do not count), increase your M€ production 1 step.": "Effekt: Når du får et kort med et nytt Symbol ut i spill (Event kort telles ikke), så får du +1 M€ Produksjon.",
+
+  "TERACTOR": "TERACTOR",
+  "Teractor": "Teractor",
+  "You start with 60 M€.": "Du starter med 60 M€。",
+  "Effect: When you play an Earth tag, you pay 3 M€ less for it.": "Effekt: Når du spiller kort med Jordkloden Symbolet, så betaler du 3 M€ mindre for den.",
+
+  "SATURN": "SATURN",
+  "SYSTEMS": "SYSTEMS",
+  "Saturn Systems": "Saturn Systems",
+  "You start with 1 titanium production and 42 M€.": "Du starter med 42 M€ og +1 Titan Produksjon.",
+  "Effect: Each time any Jovian tag is put into play, including this, increase your M€ production 1 step.": "Effekt: Hver gang et Jupiter Symbol blir satt i spill (inkludert dette korter) så får du +1 M€ Produksjon."
+}

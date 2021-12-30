@@ -1,0 +1,32 @@
+{
+    " - Game finished!":" - Spillet er avsluttet!",
+    "Sorry, you lose.": "Beklager, du tapte.",
+    "Next time you will get more luck!": "Neste gang har du sikkert mer flaks!",
+    "Also, take into account these small hints to win:": "Husk å ta i bruk disse rådene til neste gang: ",
+    "Concentrate more on Global parameters, not on Victory Points": "Konsentrer deg mer på Globalge målinger (Temp, Oksygen, Hav) enn på Victory Points",
+    "Don't be greedy on cards selection": "Ikke bli for kort grådig når du skal velge kort",
+    "Try to increase Heat production, not Megacredits": "Prøv å øke Varme produksjon ikke penge produksjon",
+    "Try to start with Beginner corporation": "Prøv å starte med Nybegynner Firma først",
+    
+    "You win!": "Du vant!",
+    "But it isn't the reason to stop making Mars better.": "Men det er ingen grunn til å slutte å jobbe for et bedre Mars.",
+    "Try to win with expansions enabled": "Prøv å vinne med utvidelsespakker",
+    "Try to win before the last generation comes": "Prøv å vinne raskere",
+    "Can you get": "Kan du få",
+    "+ Victory Points?": "+ Victory Points?",
+  
+   "Terraforming Mars - Game finished!": "Terraforming Mars - Spill slutt!",
+    "Go to main page": "Gå til hovedsiden",
+    "Timer": "Tid",
+    "Victory points breakdown after": "Victory points fordeling etter",
+    "generations": "generasjoner",
+    "Player": "Spiller",
+    "Corporation": "Firma",
+    "TR": "TR",
+    "VP": "VP",
+    "Total": "Totalt",
+    "Victory points details":"Victory Points detaljer",
+    "Victory points details for": "Victory Points detaljer for",
+    "Final situation on the board": "Brettet ved spillets slutt",
+    "Final game log": "Siste log"
+}
